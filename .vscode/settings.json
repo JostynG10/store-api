@@ -18,6 +18,7 @@
     "titleBar.inactiveBackground": "#dd053199",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
+  "material-icon-theme.activeIconPack": "nest",
   "peacock.color": "#dd0531",
   "cSpell.words": [
     "plpgsql"
